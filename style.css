@@ -1,6 +1,5 @@
 body {
   color: maroon;
-  background-color: #e4f9f5;
   text-align: center;
 }
 .top-logo {
@@ -76,10 +75,10 @@ hr {
   background-size: cover;
   margin: 0;
   border: 0;
-  height: 1220px;
   width:100%;
+  height: 1220px;
   position: relative;
-  top: 90px;
+  top: 80px;
 }
 
 .fixed-container {
@@ -87,7 +86,7 @@ hr {
   text-align: right;
   padding: 10px;
   z-index: 1;
-  width:100%;
+  width: 100%;
   background-color: whitesmoke;
   position: fixed;
   top: 0px;
