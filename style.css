@@ -33,6 +33,8 @@ p {
   background-image: url("./images/dotted.jpg");
   background-size: auto;
   width: 90%;
+  position:relative;
+  left:3%;
 }
 .parapro {
   color: whitesmoke;
@@ -100,7 +102,6 @@ hr {
 .middle-container {
   position: relative;
   top: 30px;
-  padding: 80px;
   width:100%;
   margin :0 auto 0 auto;
   background-image: url("./images/1.jpg");
