@@ -1,0 +1,116 @@
+body {
+  color: maroon;
+  background-color: #e4f9f5;
+  text-align: center;
+}
+.top-logo {
+  background-color: #e4f9f5;
+  height: 60px;
+  width: 60px;
+  margin: 0 20px 0 30px;
+}
+h2 {
+  font-size: 60px;
+  font-family: "Caveat", cursive;
+  color: brown;
+}
+h3 {
+  font-size: 60px;
+  font-family: "Caveat", cursive;
+  color: brown;
+}
+p {
+  font-family: "Caveat", cursive;
+  font-size: 40px;
+  color: brown;
+  width: 80%;
+  margin: 0 auto 0 auto;
+  padding: 00px;
+}
+
+.table {
+  background-image: url("/images/dotted.jpg");
+  background-size: auto;
+  width: 95%;
+}
+.parapro {
+  color: whitesmoke;
+}
+.skill1 {
+  height: 300px;
+  width: 300px;
+  padding: 5px;
+}
+.skill2 {
+  height: 300px;
+  width: 300px;
+  padding: 5px;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  color: grey;
+  border-width: 20px;
+  width: 10%;
+}
+.top-element {
+  font-family: "Dancing Script", cursive;
+  font-size: 90px;
+  width: 80%;
+
+  margin: 0 auto 0 auto;
+}
+.aweb {
+  font-family: "Dancing Script", cursive;
+  font-size: 30px;
+}
+
+.scenery-book {
+  height: 400px;
+  width: 400px;
+  border-radius: 100%;
+  padding: 40px;
+}
+.second-container {
+  background-image: url("/images/top_background.jpg");
+  background-size: cover;
+  margin: 0;
+  border: 0;
+  height: 1220px;
+  position: relative;
+  top: 90px;
+}
+
+.fixed-container {
+  margin: 0;
+  text-align: right;
+  padding: 10px;
+  z-index: 1;
+  width: 100%;
+  background-color: whitesmoke;
+  position: fixed;
+  top: 0px;
+}
+#cir-image {
+  height: 300px;
+  width: 300px;
+  padding: 40px;
+}
+.middle-container {
+  color: blue;
+  position: relative;
+  top: 30px;
+  padding: 80px;
+  background-image: url("/images/1.jpg");
+  background-size: cover;
+}
+
+.bottom-container {
+  position: relative;
+  top: 100px;
+}
+.glogo {
+  border-radius: 100%;
+  height: 60px;
+  width: 60px;
+}
