@@ -83,6 +83,7 @@ hr {
   height: 1220px;
   position: relative;
   top: 80px;
+  padding:4%;
 }
 
 .fixed-container {
@@ -107,6 +108,7 @@ hr {
   margin :0 auto 0 auto;
   background-image: url("./images/1.jpg");
   background-size: cover;
+  padding:4%;
 }
 
 
