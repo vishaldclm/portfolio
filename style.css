@@ -87,6 +87,7 @@ hr {
   text-align: right;
   padding: 10px;
   z-index: 1;
+  width:100%;
   background-color: whitesmoke;
   position: fixed;
   top: 0px;
