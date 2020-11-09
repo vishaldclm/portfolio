@@ -30,7 +30,7 @@ p {
 .table {
   background-image: url("./images/dotted.jpg");
   background-size: auto;
-  width: 95%;
+  width: 90%;
 }
 .parapro {
   color: whitesmoke;
@@ -114,4 +114,9 @@ hr {
   border-radius: 100%;
   height: 60px;
   width: 60px;
+}
+
+.favicon
+{
+  text-align:right;
 }
