@@ -29,7 +29,7 @@ p {
 }
 
 .table {
-  background-image: url("/images/dotted.jpg");
+  background-image: url("../images/dotted.jpg");
   background-size: auto;
   width: 95%;
 }
@@ -72,7 +72,7 @@ hr {
   padding: 40px;
 }
 .second-container {
-  background-image: url("/images/top_background.jpg");
+  background-image: url("../images/top_background.jpg");
   background-size: cover;
   margin: 0;
   border: 0;
@@ -101,7 +101,7 @@ hr {
   position: relative;
   top: 30px;
   padding: 80px;
-  background-image: url("/images/1.jpg");
+  background-image: url("../images/1.jpg");
   background-size: cover;
 }
 
