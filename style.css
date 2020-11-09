@@ -74,6 +74,7 @@ hr {
   background-image: url("./images/top_background.jpg");
   background-size: cover;
   width:100%;
+  margin :0 auto o auto;
   height: 1220px;
   position: relative;
   top: 80px;
@@ -100,6 +101,7 @@ hr {
   top: 30px;
   padding: 80px;
   width:100%;
+  margin :0 auto o auto;
   background-image: url("./images/1.jpg");
   background-size: cover;
 }
