@@ -78,10 +78,10 @@ hr {
 }
 .second-container {
   background-image: url("./images/top_background.jpg");
-  background-size: 110%;
+  background-size: cover;
   width:100%;
   margin :0 auto 0 auto;
-  height: 1200px;;
+  height: 1220px;;
   position: relative;
   top: 80px;
   padding:20px;
