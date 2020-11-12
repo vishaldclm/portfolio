@@ -70,12 +70,12 @@ hr {
   font-size: 30px;
 }
 
-.scenery-book {
+/* .scenery-book {
   height: 400px;
   width: 400px;
   border-radius: 100%;
   padding: 40px;
-}
+} */
 .second-container {
   background-image: url("./images/top_background.jpg");
   background-size: cover;
